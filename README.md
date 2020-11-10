@@ -1,12 +1,10 @@
 ## TOTP 动态密码管理器
 
+[![Build Status](https://dev.azure.com/yangchujie1/github-projects/_apis/build/status/chujieyang.totp?branchName=master)](https://dev.azure.com/yangchujie1/github-projects/_build/latest?definitionId=3&branchName=master)
+
 ### 简介
 
-    动态密码二次验证在业务系统中是很常见的安全保障手段，目前常规手段是使用手机 APP 来进行账号
-    管理以及动态密码的查看，而我们通常是在 PC 端的浏览器中进行验证码的输入，此时要去拿手机，
-    开 APP 查看就显得比较麻烦，对于习惯了使用命令行的用户，可能希望 PC 端直接使用命令就查
-    看了密码然后直接进行输入。基于此目的我做了一个小工具自己使用，各位看官觉得使用符合你的
-    习惯，可以参照下面使用方式进行使用。
+动态密码二次验证在业务系统中是很常见的安全保障手段，目前常规手段是使用手机 APP 来进行账号管理以及动态密码的查看，而我们通常是在 PC 端的浏览器中进行验证码的输入，此时要去拿手机，开 APP 查看就显得比较麻烦，对于习惯了使用命令行的用户，可能希望 PC 端直接使用命令就查看了密码然后直接进行输入。基于此目的我做了一个小工具自己使用，各位看官觉得使用符合你的习惯，可以参照下面使用方式进行使用。
 
 
 ### 使用方式
