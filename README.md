@@ -37,4 +37,4 @@
     让你的工作有方法论护航。
     微信扫码参加学习吧！
 
-   <img src="./demo/pmp.png" alter="PMP" width="50px" height="50px"/> 
+   ![查看动态密码](./demo/pmp.png) 
